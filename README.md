@@ -1,2 +1,4 @@
 # clustering
-Experimentation with clustering analysis
+Experimentation with clustering analys
+
+Implementation in R
